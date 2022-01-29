@@ -23,7 +23,7 @@ This will show a history of your development process, which users stories you co
 
 ### App Walkthough GIF
 
-<img src= "https://i.imgur.com/evkwKsI.gif" width=250><br>
+<img src= "https://i.imgur.com/IJpefwW.gif" width=250><br>
 
 ### Notes
 had a few problems with syntax and the shortbuts for android studio but figured it out. 
