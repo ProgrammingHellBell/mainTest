@@ -27,7 +27,7 @@ This will show a history of your development process, which users stories you co
 <img src="YOUR_GIF_URL_HERE" width=250><br>
 
 ### Notes
-
+had a few problems with syntax and the shortbuts for android studio but figured it out. 
 
 ### Open-source libraries used
 
